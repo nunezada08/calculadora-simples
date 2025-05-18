@@ -1,0 +1,47 @@
+body{
+    h1{
+        color: skyblue;
+    }
+
+    #number1{
+        color: purple;
+        font-size: 20px;
+        margin-right: 20px;
+        margin-left: 575px;
+        height: 0px;
+    }
+    #number2{
+        color: purple;
+        font-size: 20px;
+        margin-right: 20px;
+        margin-left: 868px;
+        height: 30px;
+    }
+
+    #numero1{
+        font-size: 20px;
+        margin-right: 20px;
+        margin-left: 485px;;
+
+    }
+    #numero2{
+        font-size: 20px;
+        margin-left: 11px
+    }
+
+    button{
+        font-size: 17px;
+    }
+
+    #result{
+        font-size: 20px;
+        color: purple;
+        margin-top: 30px;
+    }
+
+    #resultado{
+        font-size: 20px;
+        border: 1px black solid;
+        width: 200px;
+    }
+}
